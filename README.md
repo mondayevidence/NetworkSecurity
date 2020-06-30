@@ -1,6 +1,5 @@
 # NetworkSecurity
-This repository contains a recreation of some of the labs done in my Network Security course during my masters program. Some of the labs done include:<br/>
-* Simple exploitation and pivoting with Metasploit,
+This repository contains the lab report my teammate and I taught in the Network Security lab during my masters program. Some of the labs done by other students include:<br/>
 * ARP Poisioning, 
 * Honeypot setup
 * Simple MitM attack,
